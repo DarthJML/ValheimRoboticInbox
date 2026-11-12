@@ -2,6 +2,7 @@
 
 The Cybercrate: a glowing Viking crate that sorts your loot and collects drops from the ground.
 
+- **Video:** [43 seconds of it working](https://www.youtube.com/watch?v=A8kSEI_vh00)
 - **Download:** [Thunderstore](https://thunderstore.io/c/valheim/p/DarthJML/RoboticInbox/) or the zip on the [Releases](https://github.com/DarthJML/ValheimRoboticInbox/releases) page
 - **Needs:** BepInExPack for Valheim. Install with r2modman.
 - **Multiplayer:** the server and every player need the same version.
