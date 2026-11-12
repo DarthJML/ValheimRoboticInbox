@@ -1,10 +1,11 @@
-# Robotic Inbox
+# Robotic Inbox: Cybercrate Edition
 
-**Stop sorting your loot by hand.** Build a Robotic Inbox next to your chests, dump everything into it,
+**Stop sorting your loot by hand.** Build the Cybercrate next to your chests, dump everything into it,
 close it, and each item flies into the nearby chest that already holds that kind of item.
 
-It's a Valheim version of the **Robotic Inbox** mod for *7 Days to Die*, created by
-**Jonathan Robertson (Kanaverum)**. All credit for the idea goes to them. Valheim port by DarthJML.
+The **Cybercrate** is inspired by the **Robotic Inbox** mod for *7 Days to Die*, created by
+**Jonathan Robertson (Kanaverum)**. All credit for the idea goes to them. Valheim version by DarthJML.
+In the build menu it is still called **Robotic Inbox**.
 
 ## How to build it
 

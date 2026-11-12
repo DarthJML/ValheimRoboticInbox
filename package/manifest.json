@@ -2,7 +2,7 @@
   "name": "RoboticInbox",
   "version_number": "1.3.0",
   "website_url": "",
-  "description": "A glowing Viking Cybercrate that auto-sorts items into nearby chests holding the same item, and collects loose drops from the ground around it. Port of the 7 Days to Die Robotic Inbox. Server and all players need it.",
+  "description": "The Cybercrate: a glowing Viking crate that auto-sorts items into nearby chests and collects drops from the ground. Inspired by the 7 Days to Die Robotic Inbox. Server and all players need it.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2351"
   ]

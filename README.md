@@ -1,16 +1,17 @@
-# Robotic Inbox (Valheim mod)
+# Robotic Inbox: Cybercrate Edition (Valheim mod)
 
-A glowing Viking Cybercrate that sorts your loot and collects drops from the ground.
+The Cybercrate: a glowing Viking crate that sorts your loot and collects drops from the ground.
 
 - **Download:** [Thunderstore](https://thunderstore.io/c/valheim/p/DarthJML/RoboticInbox/) or the zip on the [Releases](https://github.com/DarthJML/ValheimRoboticInbox/releases) page
 - **Needs:** BepInExPack for Valheim. Install with r2modman.
 - **Multiplayer:** the server and every player need the same version.
 
-**Stop sorting your loot by hand.** Build a Robotic Inbox next to your chests, dump everything into it,
+**Stop sorting your loot by hand.** Build the Cybercrate next to your chests, dump everything into it,
 close it, and each item flies into the nearby chest that already holds that kind of item.
 
-It's a Valheim version of the **Robotic Inbox** mod for *7 Days to Die*, created by
-**Jonathan Robertson (Kanaverum)**. All credit for the idea goes to them. Valheim port by DarthJML.
+The **Cybercrate** is inspired by the **Robotic Inbox** mod for *7 Days to Die*, created by
+**Jonathan Robertson (Kanaverum)**. All credit for the idea goes to them. Valheim version by DarthJML.
+In the build menu it is still called **Robotic Inbox**.
 
 ## How to build it
 
