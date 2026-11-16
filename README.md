@@ -122,3 +122,6 @@ The DLL lands in `bin/Release/net472/RoboticInbox.dll`. `package/` holds the Thu
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Pairs well with
+[AutoTorch](https://thunderstore.io/c/valheim/p/DarthJML/AutoTorch/) ([source](https://github.com/DarthJML/ValheimAutoTorch)): the Cybercrate sorts your resin into a chest, and AutoTorch keeps every torch and fire fuelled from it.
